@@ -1,5 +1,5 @@
 # Tic-Tac-Toe AI Implementation Report
-
+[youtube link](https://youtu.be/Ih5iCrml-J0)
 ## Introduction
 
 This report explains the implementation of an artificially intelligent player for the classic game of Tic-Tac-Toe. The implementation features two algorithms: the standard Minimax algorithm and its optimized version using Alpha-Beta Pruning. This report breaks down the key components, explains the algorithms, and analyzes their performance differences.
